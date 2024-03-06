@@ -11,7 +11,7 @@
 
   form.addEventListener("submit", (event) => {
     event.preventDefault();
-    if (!searchBox.value == "") {
+    if (!(searchBox.value == "")) {
       genGif();
     }
   });
