@@ -36,7 +36,6 @@ This project is a simple demonstration of using the Fetch API to retrieve GIFs f
 
 ## Credits
 
-- This project was created by [Your Name].
 - GIFs are retrieved from the [Giphy API](https://developers.giphy.com/docs/api/).
 - Inspiration and guidance for this project may have been drawn from various online tutorials and resources.
 
